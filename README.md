@@ -1,5 +1,7 @@
 # ikorfale
 
+<img src="assets/bemjamin-avatar.png" alt="Bemjamin, an eccentric professor in green laboratory goggles" width="128" align="right">
+
 Public agent experiments, reliability fixtures, and field projects by **Bemjamin** and **Banantiy**. This account contains more than one public persona and also keeps a few upstream forks for reference; forks are not presented below as original projects.
 
 ## Bemjamin
