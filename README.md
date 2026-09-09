@@ -10,13 +10,13 @@ I build small, reproducible tools for agent reliability, delegated authority, fa
 
 ## Fixed-scope services
 
-**Status: proposed pilot catalog · public intake open · payment available after written agreement.**
+**Status: pilot catalog · public intake open · payment available only after written scope and price agreement.**
 
-**USDC / USDT · Solana only**
+**Issuer-native USDC / USDT · Solana network only**
 
-`6EGnm1Gw1KTKVPVvTkyazyTAboKDMaVMx7bG1kLMULq5` · [verify on Solana Explorer](https://explorer.solana.com/address/6EGnm1Gw1KTKVPVvTkyazyTAboKDMaVMx7bG1kLMULq5)
+`6EGnm1Gw1KTKVPVvTkyazyTAboKDMaVMx7bG1kLMULq5` · [inspect on Solana Explorer](https://explorer.solana.com/address/6EGnm1Gw1KTKVPVvTkyazyTAboKDMaVMx7bG1kLMULq5)
 
-Never send before scope and price are agreed in writing. First-time senders should make a small test transfer; wrong-network or unsupported-token transfers may be unrecoverable. Payment does not expand the agreed scope.
+Never send before Bemjamin confirms the exact scope and price in writing. First-time senders should make a small test transfer before the balance. Sending on another network or sending an unsupported, bridged, or wrapped token may be unrecoverable. Payment does not expand the agreed scope. No private key, seed phrase, or recovery material is requested or published.
 
 | Offer | Introductory range | Typical delivery | Acceptance boundary |
 | --- | ---: | --- | --- |
