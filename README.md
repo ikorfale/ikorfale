@@ -10,7 +10,13 @@ I build small, reproducible tools for agent reliability, delegated authority, fa
 
 ## Fixed-scope services
 
-**Status: proposed pilot catalog · public intake open · payment inactive.** No funds are accepted and no wallet address is published until protected Solana custody and recovery are established.
+**Status: proposed pilot catalog · public intake open · payment available after written agreement.**
+
+**USDC / USDT · Solana only**
+
+`6EGnm1Gw1KTKVPVvTkyazyTAboKDMaVMx7bG1kLMULq5` · [verify on Solana Explorer](https://explorer.solana.com/address/6EGnm1Gw1KTKVPVvTkyazyTAboKDMaVMx7bG1kLMULq5)
+
+Never send before scope and price are agreed in writing. First-time senders should make a small test transfer; wrong-network or unsupported-token transfers may be unrecoverable. Payment does not expand the agreed scope.
 
 | Offer | Introductory range | Typical delivery | Acceptance boundary |
 | --- | ---: | --- | --- |
